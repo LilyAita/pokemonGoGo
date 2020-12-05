@@ -1,0 +1,13 @@
+{
+    "url": "https://gist.githubusercontent.com/jhonatan89/e379fadf8ed0f5381a2d8f8f3dea90c3/raw/e2bc20df02828d297f99558551e37959ac97a6f8/pokemon-es.json",
+    "Table.id": "#",
+    "Table.image": "Imagen",
+    "Table.name":"Nombre",
+    "Table.description":"Descripción",
+    "Table.height" :"Altura", 
+    "Table.weight" :"Ancho", 
+    "Table.type":"Tipo",
+    "keys" : ["#", "Imagen", "Nombre", "Descripción", "Altura", "Ancho", "Tipo"] ,
+    "title": "Pokémons más buscados"
+
+}
