@@ -8,6 +8,6 @@
     "Table.weight" :"Ancho", 
     "Table.type":"Tipo",
     "keys" : ["#", "Imagen", "Nombre", "Descripción", "Altura", "Ancho", "Tipo"] ,
-    "title": "Pokémons más buscados"
+    "Table.title": "Pokémons más buscados"
 
 }
